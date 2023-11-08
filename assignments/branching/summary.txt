@@ -1,0 +1,1 @@
+Git branching is a fundamental feature of the version control system Git that allows developers to create separate, parallel lines of development within a codebase.

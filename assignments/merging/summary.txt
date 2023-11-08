@@ -1,0 +1,1 @@
+Git merging is the process of integrating changes from one branch into another, typically used to incorporate new features or bug fixes into the main codebase.
