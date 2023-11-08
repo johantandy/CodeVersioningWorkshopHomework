@@ -1,0 +1,3 @@
+Git merging is the process of integrating changes from one branch into another, typically used to incorporate new features or bug fixes into the main codebase.
+
+To merge a Git branch into the current branch, use the command: git merge branch_name.

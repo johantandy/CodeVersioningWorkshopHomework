@@ -1,0 +1,3 @@
+Git branching is a fundamental feature of the version control system Git that allows developers to create separate, parallel lines of development within a codebase.
+
+To create a new Git branch, use the command: git checkout -b branch_name.
